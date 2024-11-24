@@ -3,9 +3,11 @@ languageCode = "en-us"
 title = "Shekhar Rana's Personal Site"
 theme = "ananke"
 paginate = 10
-[params]
-  customCSS = ["css/style.css"]
+relativeURLs = true
+canonifyURLs = true
 
+[params]
+  customCSS = ["css/styles.css"]
 
 [menu]
   [[menu.main]]
