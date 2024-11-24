@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shekhar Rana&#39;s Personal Site</title>
+    <link>https://your-site-domain.netlify.app/</link>
+    <description>Recent content on Shekhar Rana&#39;s Personal Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://your-site-domain.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://your-site-domain.netlify.app/about/</link>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://your-site-domain.netlify.app/about/</guid>
+      <description>&lt;h2 id=&#34;about-shekhar-rana&#34;&gt;About Shekhar Rana&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m &lt;strong&gt;Shekhar Rana&lt;/strong&gt;, a dedicated professional with a background in web development and a love for sports, especially cricket.&lt;br&gt;&#xA;Having moved from India to Canada, I&amp;rsquo;ve embraced new opportunities and challenges in life and work.&lt;/p&gt;&#xA;&lt;h3 id=&#34;quick-facts&#34;&gt;Quick Facts&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Origin:&lt;/strong&gt; Punjab, India&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Current Location:&lt;/strong&gt; Canada&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hobbies:&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Playing and watching cricket&lt;/li&gt;&#xA;&lt;li&gt;Exploring modern web technologies&lt;/li&gt;&#xA;&lt;li&gt;Traveling and photography&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;With a keen interest in designing functional and visually appealing websites, I aim to make a positive impact in the digital world.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>https://your-site-domain.netlify.app/blog/</link>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://your-site-domain.netlify.app/blog/</guid>
+      <description>&lt;h2 id=&#34;my-blog&#34;&gt;My Blog&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to my blog, where I share insights on various topics:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Life as an Indian in Canada&lt;/li&gt;&#xA;&lt;li&gt;Cricket: Lessons from the Game&lt;/li&gt;&#xA;&lt;li&gt;The Power of Modern Web Technologies&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Stay tuned for upcoming articles!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://your-site-domain.netlify.app/contact/</link>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://your-site-domain.netlify.app/contact/</guid>
+      <description>&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;d love to hear from you! Feel free to reach out using the details below:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:rana.shekhar@example.com&#34;&gt;rana.shekhar@example.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; +1 (123) 456-7890&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://linkedin.com/in/ranashekhar&#34;&gt;Shekhar Rana&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/ranashekhar192&#34;&gt;ranashekhar192&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Gallery</title>
+      <link>https://your-site-domain.netlify.app/gallery/</link>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://your-site-domain.netlify.app/gallery/</guid>
+      <description>&lt;h2 id=&#34;my-gallery&#34;&gt;My Gallery&lt;/h2&gt;&#xA;&lt;p&gt;Here are some of my favorite moments captured through the lens:&lt;/p&gt;&#xA;&lt;h3 id=&#34;playing-cricket&#34;&gt;Playing Cricket&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://via.placeholder.com/600x400&#34; alt=&#34;Playing Cricket&#34; title=&#34;Playing Cricket&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;canadas-beauty&#34;&gt;Canada&amp;rsquo;s Beauty&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://via.placeholder.com/600x400&#34; alt=&#34;Canada&amp;rsquo;s Landscape&#34; title=&#34;Canada&#39;s Landscape&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;travel-memories&#34;&gt;Travel Memories&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://via.placeholder.com/600x400&#34; alt=&#34;Travel Diaries&#34; title=&#34;Travel Diaries&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Portfolio</title>
+      <link>https://your-site-domain.netlify.app/portfolio/</link>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://your-site-domain.netlify.app/portfolio/</guid>
+      <description>&lt;h2 id=&#34;my-projects&#34;&gt;My Projects&lt;/h2&gt;&#xA;&lt;p&gt;Here’s a selection of projects that I’ve worked on:&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-cricket-stats-dashboard&#34;&gt;1. &lt;strong&gt;Cricket Stats Dashboard&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Built a responsive dashboard for cricket statistics using Python, Django, and Tableau.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-personal-website&#34;&gt;2. &lt;strong&gt;Personal Website&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Developed a professional personal website using Hugo, showcasing my skills and projects.&lt;/p&gt;&#xA;&lt;h3 id=&#34;3-travel-blog-platform&#34;&gt;3. &lt;strong&gt;Travel Blog Platform&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Designed and deployed a platform for sharing travel experiences, built with React and Node.js.&lt;/p&gt;&#xA;&lt;p&gt;Feel free to check out more on my &lt;a href=&#34;https://github.com/ranashekhar192&#34;&gt;GitHub profile&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
